@@ -697,4 +697,4 @@ group by pr.Id_EquipoVisita,pr.Id_Torneo,pos.POS
 
 
 go
- 
+

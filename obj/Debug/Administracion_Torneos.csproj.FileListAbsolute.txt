@@ -159,3 +159,47 @@ C:\Users\bryan\OneDrive\Documents\Plusti\bases de datos\proyecto torneo equipo 1
 C:\Users\bryan\OneDrive\Documents\Plusti\bases de datos\proyecto torneo equipo 1 reuqerimientos nuevos\Administracion_Torneos\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
 C:\Users\bryan\OneDrive\Documents\Plusti\bases de datos\proyecto torneo equipo 1 reuqerimientos nuevos\Administracion_Torneos\obj\Debug\Administracion_Torneos.exe
 C:\Users\bryan\OneDrive\Documents\Plusti\bases de datos\proyecto torneo equipo 1 reuqerimientos nuevos\Administracion_Torneos\obj\Debug\Administracion_Torneos.pdb
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\bin\Debug\Administracion_Torneos.exe.config
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\bin\Debug\Administracion_Torneos.exe
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\bin\Debug\Administracion_Torneos.pdb
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.csproj.AssemblyReference.cache
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Properties.Resources.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Amonestacion.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Canchas.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.controlgoles.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Crud_usuarios.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.jugadorescrud.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ListaEquipo.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ListaEquipos.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Login_vista.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Menucontrol.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Partidos.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ReporteCanchas.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ReportePartidosAfectados.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ReportePlanillaArbitro.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Reportes.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ReporteEstadisticasEquipo.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.tablapos.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Tarjetas.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.TorneoCRUD.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ViewCambio.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ViewControlAmonestacion.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ViewPagoAmonestacion.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ViewPosicionJugador.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.VistaArbitro.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.VistaControlArbitro.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.VISTA_ALQUILER.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Vista_opciones_admin.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Vista_operador.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.vista_parametro_de_empresa.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Vista_reportes.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.vista_reportes_disponibilidad_vistass.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.VISTA_REPORTE_ARBITRO_VISTA.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.Vista_reporte_bitacoras_vista.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.VISTA_REPORTE_CANCHA_ALQUILERES.resources
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.csproj.GenerateResource.cache
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.csproj.CoreCompileInputs.cache
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.exe
+C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.pdb
