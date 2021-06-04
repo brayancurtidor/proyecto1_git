@@ -269,5 +269,20 @@ namespace Administracion_Torneos.Vista
             agregando_registro_bitacoras.Acciones_en_sistema = accion;
             bitacora_context.Agregar_registro(agregando_registro_bitacoras);
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            REPORTESS_ARBITROSS reportes_arbitros = new REPORTESS_ARBITROSS();
+            reportes_arbitros.Show();
+            //llevando el control de bitacoras de en cada opcion del sistema
+            string accion = "REP.Listado de Arbitros";
+            bitacora_modelo agregando_registro_bitacoras = new bitacora_modelo();
+            agregando_registro_bitacoras.nombre = textBox1.Text;
+            agregando_registro_bitacoras.apellidos = textBox2.Text;
+            agregando_registro_bitacoras.Puesto_usuario = textBox4.Text;
+            agregando_registro_bitacoras.Acciones_en_sistema = accion;
+            bitacora_context.Agregar_registro(agregando_registro_bitacoras);
+
+        }
     }
 }

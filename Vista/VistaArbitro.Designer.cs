@@ -71,6 +71,7 @@ namespace Administracion_Torneos.Vista
             this.listArbitros.RowHeadersWidth = 51;
             this.listArbitros.Size = new System.Drawing.Size(1096, 235);
             this.listArbitros.TabIndex = 16;
+            this.listArbitros.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.listArbitros_CellContentClick);
             // 
             // groupBox1
             // 

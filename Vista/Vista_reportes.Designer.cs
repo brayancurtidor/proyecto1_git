@@ -39,6 +39,7 @@ namespace Administracion_Torneos.Vista
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -50,7 +51,7 @@ namespace Administracion_Torneos.Vista
             this.btnTres = new System.Windows.Forms.Button();
             this.btnDos = new System.Windows.Forms.Button();
             this.btnUno = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -132,6 +133,7 @@ namespace Administracion_Torneos.Vista
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.button6);
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.button4);
@@ -146,15 +148,27 @@ namespace Administracion_Torneos.Vista
             this.groupBox1.Controls.Add(this.btnUno);
             this.groupBox1.Location = new System.Drawing.Point(12, 183);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(626, 386);
+            this.groupBox1.Size = new System.Drawing.Size(772, 386);
             this.groupBox1.TabIndex = 22;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "REPORTES";
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button1.Location = new System.Drawing.Point(190, 288);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(116, 79);
+            this.button1.TabIndex = 19;
+            this.button1.Text = "Reporte disponibilidad";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
             // button3
             // 
             this.button3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button3.Location = new System.Drawing.Point(331, 275);
+            this.button3.Location = new System.Drawing.Point(44, 288);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(100, 79);
@@ -166,7 +180,7 @@ namespace Administracion_Torneos.Vista
             // button4
             // 
             this.button4.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button4.Location = new System.Drawing.Point(190, 275);
+            this.button4.Location = new System.Drawing.Point(615, 166);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(100, 79);
@@ -178,7 +192,7 @@ namespace Administracion_Torneos.Vista
             // button5
             // 
             this.button5.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button5.Location = new System.Drawing.Point(44, 275);
+            this.button5.Location = new System.Drawing.Point(477, 166);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(100, 79);
@@ -190,7 +204,7 @@ namespace Administracion_Torneos.Vista
             // btnOcho
             // 
             this.btnOcho.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnOcho.Location = new System.Drawing.Point(477, 166);
+            this.btnOcho.Location = new System.Drawing.Point(336, 166);
             this.btnOcho.Margin = new System.Windows.Forms.Padding(4);
             this.btnOcho.Name = "btnOcho";
             this.btnOcho.Size = new System.Drawing.Size(100, 79);
@@ -202,7 +216,7 @@ namespace Administracion_Torneos.Vista
             // btnSiete
             // 
             this.btnSiete.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnSiete.Location = new System.Drawing.Point(44, 166);
+            this.btnSiete.Location = new System.Drawing.Point(615, 52);
             this.btnSiete.Margin = new System.Windows.Forms.Padding(4);
             this.btnSiete.Name = "btnSiete";
             this.btnSiete.Size = new System.Drawing.Size(100, 79);
@@ -238,7 +252,7 @@ namespace Administracion_Torneos.Vista
             // btnCuatro
             // 
             this.btnCuatro.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnCuatro.Location = new System.Drawing.Point(336, 166);
+            this.btnCuatro.Location = new System.Drawing.Point(190, 166);
             this.btnCuatro.Margin = new System.Windows.Forms.Padding(4);
             this.btnCuatro.Name = "btnCuatro";
             this.btnCuatro.Size = new System.Drawing.Size(100, 79);
@@ -262,7 +276,7 @@ namespace Administracion_Torneos.Vista
             // btnDos
             // 
             this.btnDos.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnDos.Location = new System.Drawing.Point(190, 166);
+            this.btnDos.Location = new System.Drawing.Point(44, 166);
             this.btnDos.Margin = new System.Windows.Forms.Padding(4);
             this.btnDos.Name = "btnDos";
             this.btnDos.Size = new System.Drawing.Size(100, 79);
@@ -283,17 +297,17 @@ namespace Administracion_Torneos.Vista
             this.btnUno.UseVisualStyleBackColor = false;
             this.btnUno.Click += new System.EventHandler(this.btnUno_Click);
             // 
-            // button1
+            // button6
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(477, 275);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(116, 79);
-            this.button1.TabIndex = 19;
-            this.button1.Text = "Reporte disponibilidad";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.button6.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button6.Location = new System.Drawing.Point(336, 288);
+            this.button6.Margin = new System.Windows.Forms.Padding(4);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(100, 79);
+            this.button6.TabIndex = 20;
+            this.button6.Text = "Reporte Arbitros";
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // Vista_reportes
             // 
@@ -345,5 +359,6 @@ namespace Administracion_Torneos.Vista
         private System.Windows.Forms.Button btnDos;
         private System.Windows.Forms.Button btnUno;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button6;
     }
 }
