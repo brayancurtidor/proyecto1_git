@@ -100,6 +100,7 @@ namespace Administracion_Torneos.Vista
             this.listjugadores.RowHeadersWidth = 51;
             this.listjugadores.Size = new System.Drawing.Size(905, 203);
             this.listjugadores.TabIndex = 0;
+            this.listjugadores.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.listjugadores_CellContentClick);
             // 
             // label1
             // 
