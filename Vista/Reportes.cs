@@ -84,5 +84,11 @@ namespace Administracion_Torneos.Vista
             VISTA_REPORTE_ARBITRO_VISTA vista_arbitro = new VISTA_REPORTE_ARBITRO_VISTA();
             vista_arbitro.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            VistaReporteJugadores v = new VistaReporteJugadores();
+            v.Show();
+        }
     }
 }
