@@ -261,6 +261,12 @@
     <Compile Include="Vista\VistaControlArbitro.Designer.cs">
       <DependentUpon>VistaControlArbitro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\VistaReporteJugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\VistaReporteJugadores.Designer.cs">
+      <DependentUpon>VistaReporteJugadores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\VISTA_ALQUILER.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -405,6 +411,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\VistaControlArbitro.resx">
       <DependentUpon>VistaControlArbitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\VistaReporteJugadores.resx">
+      <DependentUpon>VistaReporteJugadores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\VISTA_ALQUILER.resx">
       <DependentUpon>VISTA_ALQUILER.cs</DependentUpon>

@@ -244,5 +244,10 @@ namespace Administracion_Torneos.Vista
         {
 
         }
+
+        private void listjugadores_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
