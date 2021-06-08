@@ -135,6 +135,12 @@
     <Compile Include="Vista\ListaEquipo.Designer.cs">
       <DependentUpon>ListaEquipo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\ListaEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\ListaEquipos.Designer.cs">
+      <DependentUpon>ListaEquipos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\Login_vista.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -336,6 +342,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ListaEquipo.resx">
       <DependentUpon>ListaEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\ListaEquipos.resx">
+      <DependentUpon>ListaEquipos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\Login_vista.resx">
       <DependentUpon>Login_vista.cs</DependentUpon>
