@@ -65,6 +65,7 @@ namespace Administracion_Torneos.Vista
             this.Controls.Add(this.label2);
             this.Name = "VistaReporteJugadores";
             this.Text = "VistaReporteJugadores";
+            this.Load += new System.EventHandler(this.VistaReporteJugadores_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

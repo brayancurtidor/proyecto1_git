@@ -284,5 +284,34 @@ namespace Administracion_Torneos.Vista
             bitacora_context.Agregar_registro(agregando_registro_bitacoras);
 
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            ListaEquipos listaequipos = new ListaEquipos();
+            listaequipos.Show();
+            //llevando el control de bitacoras de en cada opcion del sistema
+            string accion = "REP.Listado de equipos";
+            bitacora_modelo agregando_registro_bitacoras = new bitacora_modelo();
+            agregando_registro_bitacoras.nombre = textBox1.Text;
+            agregando_registro_bitacoras.apellidos = textBox2.Text;
+            agregando_registro_bitacoras.Puesto_usuario = textBox4.Text;
+            agregando_registro_bitacoras.Acciones_en_sistema = accion;
+            bitacora_context.Agregar_registro(agregando_registro_bitacoras);
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            VistaReporteJugadores listareporte_jugadores = new VistaReporteJugadores();
+            listareporte_jugadores.Show();
+            //llevando el control de bitacoras de en cada opcion del sistema
+            string accion = "REP.Listado de jugadores";
+            bitacora_modelo agregando_registro_bitacoras = new bitacora_modelo();
+            agregando_registro_bitacoras.nombre = textBox1.Text;
+            agregando_registro_bitacoras.apellidos = textBox2.Text;
+            agregando_registro_bitacoras.Puesto_usuario = textBox4.Text;
+            agregando_registro_bitacoras.Acciones_en_sistema = accion;
+            bitacora_context.Agregar_registro(agregando_registro_bitacoras);
+
+        }
     }
 }

@@ -250,3 +250,5 @@ C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administraci
 C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.exe
 C:\Users\juceg\Documents\C#\TorneosCurtidor\proyecto1_git\obj\Debug\Administracion_Torneos.pdb
 >>>>>>> Reporte_equipos
+C:\Users\bryan\OneDrive\Documents\Plusti\proyecto git github\proyecto git 1\proyecto curtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.ListaEquipos.resources
+C:\Users\bryan\OneDrive\Documents\Plusti\proyecto git github\proyecto git 1\proyecto curtidor\proyecto1_git\obj\Debug\Administracion_Torneos.Vista.VistaReporteJugadores.resources

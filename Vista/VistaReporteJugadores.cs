@@ -24,5 +24,10 @@ namespace Administracion_Torneos.Vista
         {
 
         }
+
+        private void VistaReporteJugadores_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
